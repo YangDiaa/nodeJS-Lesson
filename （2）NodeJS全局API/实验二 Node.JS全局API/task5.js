@@ -1,4 +1,4 @@
-//当前Node.js进程所在操作系统的平台
+//当前Node.js进程所在的操作系统平台
 console.log(process.platform);
 //当前Node.js进程的PID
 console.log(process.pid);
